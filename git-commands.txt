@@ -22,3 +22,5 @@
 git branch - показывает,  на какой вы сейчас ветке
 git checkout -b <branch_name> - создает новую ветку с именем <branch_name> и переключается на эту ветку 
 git checkout <branch_name> - переключается на существующую ветку с именем <branch_name>
+
+This is text made in branch A
